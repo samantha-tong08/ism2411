@@ -1,3 +1,9 @@
+# Self-Assessment Questions
+
+# 1. I'm surprised that lists are mutable. I can change them without having to rewrite the entire list. 
+
+# 2. For a class, I had to copy and paste a bunch of data into a spreadsheet. If I used a Python list, I wouldn't have to manually copy and paste into each row.
+
 # Exercise #1: Build a list
 
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
