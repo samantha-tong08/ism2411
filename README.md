@@ -14,14 +14,16 @@ Each folder corresponds to one module.
 ## Modules
 
 - `week07/` — Functions: calculate_tax, apply_discount, final_price
+- `week10/` — Lists & Tuples
 
 ## How to Run
 
 Each script is standalone. Open a terminal and run:
 
-​```
+```
 python week07/functions.py
-​```
+python week10/inventory.py
+```
 
 ## Reflection
 
@@ -38,7 +40,7 @@ f24133c add .gitignore for Python and OS files
 
 ```
 If I saw someone working like this, I would assume they are new to Git because of some repeated lines. 
-````
+```
 
 ```
 2. Using Git changes the way I edit scripts because now I can undo errors that could potentially break my script. Before, I would just work on my script and have a backup in case the current one breaks but now I can go back to a version where my code does not break.
